@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --fromt -h betty:holberton _hello
+chown -h Vincent:staff _hello
